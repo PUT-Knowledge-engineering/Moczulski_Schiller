@@ -4,7 +4,15 @@
   "description": "A command line tool for automated image annotations.",
   "main": "executor.cmd",
   "dependencies": {
-    "cli": "^1.0.1"
+    "async": "^2.4.1",
+    "chart.js": "^2.6.0",
+    "chartjs-node": "^1.4.1",
+    "cli": "^1.0.1",
+    "file-type": "^4.3.0",
+    "histogram": "^2.1.1",
+    "image-size": "^0.5.4",
+    "opencv": "^6.0.0",
+    "read-chunk": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
